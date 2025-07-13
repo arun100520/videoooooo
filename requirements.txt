@@ -1,5 +1,6 @@
 flask
 torch
 torchvision
-opencv-python
 Pillow
+opencv-python
+requests
